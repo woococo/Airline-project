@@ -1,0 +1,128 @@
+,AirLine,Legroom,Seat comfort,"In-flight entertainment (WiFi, TV, movies)",Onboard Experience,Customer service,Value for money,Cleanliness,Check-in and boarding,Food and beverage
+1,AEGEAN,40,40,30,40,45,40,45,40,40
+2,Aer Lingus,35,35,30,35,35,35,40,40,35
+3,Aeroflot,40,40,35,35,40,40,45,40,40
+4,Aerolineas Argentinas,30,35,30,35,40,35,40,40,30
+5,AEGEAN,40,40,30,40,45,40,45,40,40
+6,Aer Lingus,35,35,30,35,35,35,40,40,35
+7,Aeroflot,40,40,35,35,40,40,45,40,40
+8,Aerolineas Argentinas,30,35,30,35,40,35,40,40,30
+9,Air Astana,40,40,40,40,45,40,45,40,45
+10,Air Austral,35,35,35,35,35,35,40,40,35
+11,Air Canada,35,35,35,30,35,30,35,35,30
+12,Air Corsica,35,35,25,35,35,35,40,40,35
+13,Air Dolomiti,35,35,25,40,40,40,40,40,40
+14,Air Dolomiti,35,35,25,40,40,40,40,40,40
+15, Air Guilin,50,30,10,,30,40,20,40,
+16,AIR KBZ (Air Kanbawza),35,35,20,40,40,40,40,40,35
+17,Air Malta,35,35,20,30,35,35,40,40,30
+18,Air New Zealand,40,40,40,40,45,40,45,45,40
+19,Air North (Canada),40,40,25,50,50,45,45,45,45
+20,Air Tahiti Nui,35,35,35,35,40,35,40,40,35
+21,Air Tahiti Nui,35,35,35,35,40,35,40,40,35
+22,Airlink,35,40,20,40,40,35,40,40,35
+23,Alaska Airlines,40,40,35,40,45,40,45,45,35
+24,American Airlines,35,30,30,30,35,30,35,35,30
+25,ANA (All Nippon Airways),40,40,40,40,45,40,45,45,40
+26,Asiana Airlines,40,40,35,40,40,40,40,40,40
+27,Atlantic Airways,40,40,30,35,45,40,45,45,40
+28,Aurigny,40,40,20,40,40,35,45,40,35
+29,Austrian Airlines,35,35,30,35,40,35,40,40,35
+30,Avianca,40,40,40,35,40,35,40,40,35
+31,Azerbaijan Airlines,40,40,30,35,40,40,45,40,40
+32,Azul,40,40,40,40,45,40,45,45,40
+33,Bangkok Airways,40,40,25,40,40,40,45,45,40
+34,Belavia Belarusian Airlines,35,35,20,30,40,35,40,40,35
+35,Binter,35,40,30,40,40,40,40,40,40
+36,Blue Air,30,30,20,30,35,35,35,35,30
+37,BRA (Braathens Regional Airways AB),35,35,20,30,40,35,40,40,35
+38,Cathay Pacific,40,40,40,40,40,40,40,40,40
+39,Cayman Airways,35,35,20,30,35,35,40,35,35
+40,China Airlines,40,40,35,35,40,40,40,40,35
+41,Citilink,35,35,25,35,40,40,40,40,30
+42,Copa Airlines,35,35,35,35,40,35,40,40,35
+43,Daallo Airlines,30,30,10,30,30,30,,,
+44,Delta Air Lines,35,35,40,40,40,35,40,40,35
+45,Druk Air,40,40,20,40,40,35,40,40,35
+46,Edelweiss Air,35,35,35,40,40,40,45,40,40
+47,EL AL Israel Airlines,35,35,30,35,35,35,40,40,35
+48,Emirates,40,40,45,40,40,40,45,45,40
+49,Ethiopian Airlines,35,35,35,30,35,35,35,35,35
+50,Etihad Airways,35,35,35,35,35,35,40,40,35
+51,EVA Air,40,40,40,40,45,40,45,45,40
+52,Finnair,35,35,30,35,40,35,40,40,35
+53,Fly Allways,40,30,40,,40,30,40,40,20
+54,Fly Tiwi,10,10,10,10,30,10,,10,10
+55,Flybe [no longer operating],35,35,15,30,35,35,40,35,30
+56,FlySafair,35,35,20,40,40,40,40,40,35
+57,Garuda Indonesia,40,40,40,40,40,40,45,40,40
+58,Germania Airlines [no longer operating],35,35,35,40,45,40,45,40,40
+59,GOL Airlines,30,30,25,30,35,35,40,40,25
+60,Gum Air,40,40,50,50,40,,,,
+61,Hainan Airlines,40,35,35,35,40,40,40,40,35
+62,Hawaiian Airlines,40,35,35,35,40,35,40,40,35
+63,Hongtu Airlines,40,40,,40,50,40,,,
+64,HOP!,35,35,20,30,40,35,40,40,35
+65,Icelandair,35,35,35,35,35,35,40,35,30
+66,IndiGo,35,35,20,35,35,40,40,40,30
+67,Interjet,40,35,25,35,35,35,40,35,30
+68,Japan Airlines (JAL),40,40,40,40,45,40,45,45,40
+69,Jet Airways [no longer operating],35,35,30,35,35,35,40,40,35
+70,Jet2.com,40,40,20,40,45,45,45,45,40
+71,JetBlue,40,40,40,40,40,40,40,40,40
+72,JSX,45,45,25,45,45,40,45,45,40
+73,KLM Royal Dutch Airlines,35,35,35,40,40,40,40,40,40
+74,Korean Air,40,40,40,40,45,40,45,45,40
+75,KrasAvia,40,40,,,50,40,40,40,40
+76,Kulula,30,30,20,30,35,40,40,40,30
+77,La Compagnie,45,45,40,40,40,45,45,45,40
+78,Lao Airlines,35,35,20,40,40,40,40,40,35
+79,LATAM Airlines,30,30,35,35,35,35,40,40,30
+80,Loganair,40,40,20,40,40,35,45,40,35
+81,Lufthansa,35,35,35,35,40,35,40,40,35
+82,Luxair,35,40,30,40,45,40,45,45,40
+83,Mahan Air,35,35,20,30,40,40,40,40,40
+84,Mango,35,35,25,30,35,40,40,40,30
+85,Maya Island Air,40,40,25,40,40,40,40,40,25
+86,Middle East Airlines,35,35,35,35,40,35,40,40,40
+87,Mokulele Airlines,40,40,25,40,45,45,45,45,20
+88,Monacair,50,50,,,40,40,40,50,
+89,Monarch [no longer operating],35,35,20,35,40,40,40,40,35
+90,NEOS,30,35,35,35,40,35,40,35,35
+91,Norwegian,35,35,30,35,35,40,40,35,30
+92,Oman Air,35,35,35,35,35,40,40,40,35
+93,Porter Airlines,35,35,20,35,40,40,40,40,40
+94,Qantas,35,35,35,35,40,35,40,40,35
+95,Qatar Airways,40,40,40,40,40,40,45,40,40
+96,Rossiya Russian Airlines,35,35,20,30,40,35,40,40,30
+97,Royal Brunei Airlines,40,40,35,40,40,40,45,40,40
+98,RwandAir,40,35,30,35,40,40,45,40,35
+99,S7 airlines,35,35,25,35,40,40,40,40,35
+100,SAS,35,35,25,35,35,35,40,40,30
+101,Saudia Airlines,40,35,30,35,35,35,35,35,35
+102,SilkAir,35,35,25,35,40,35,40,40,35
+103,Singapore Airlines,40,40,45,40,45,40,45,45,40
+104,Sky Shuttle,40,40,,50,50,30,,,
+105,Skymark Airlines,35,35,20,30,35,45,40,35,25
+106,Southwest Airlines,35,35,35,40,45,45,45,45,35
+107,Starflyer,45,45,40,40,40,40,45,40,35
+108,Sun Country Airlines,30,30,25,30,35,35,35,35,30
+109,Sunclass Airlines,35,35,35,35,40,40,40,40,35
+110,Sundair,30,30,15,25,35,35,35,35,25
+105,Swiss International Air Lines [SWISS],35,35,35,35,40,35,45,40,40
+106,Thai Airways,40,40,35,40,40,40,40,40,40
+107,THAI Smile Airways,40,40,30,40,45,45,45,45,40
+108,Trans Maldivian,30,30,20,35,35,30,35,40,25
+109,Tropic Air Belize,35,35,25,45,45,45,45,45,25
+110,TUI Airways (United Kingdom),35,35,25,30,40,35,40,40,35
+111,TUI fly Belgium (formerly Jetairfly),35,35,25,30,35,35,35,35,30
+112,Turkish Airlines,35,40,40,40,40,40,40,40,40
+113,Vietnam Airlines,40,35,30,35,40,40,40,40,35
+114,Virgin America (now Alaska Airlines),40,40,40,40,40,40,45,40,35
+121,Virgin Atlantic Airways,40,40,40,40,45,40,45,45,40
+122,Virgin Australia,35,35,30,35,40,35,40,40,35
+123,Vistara,40,40,30,40,40,40,45,45,40
+124,Volotea,35,35,25,30,35,35,35,35,30
+125,WestJet,35,35,30,35,40,35,40,40,35
+126,Wideroe,35,35,20,35,40,35,40,40,30
+127,Windrose Air,35,35,25,30,40,40,40,40,35
